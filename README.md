@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41MTGJW) <br>
 <p align="center">
     <img src='/public/logo.png' />
 </p>
